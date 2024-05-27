@@ -1,0 +1,58 @@
+body {
+	background-color:#ffe6e6;
+	padding-right:30px;
+	padding-left:30px;
+}
+h3 {
+	font-size:100px;
+	font-family:Pristina;
+	color:#602040;
+	text-align:center;
+}
+.subheader {
+	font-size:50px;
+	font-family:Pristina;
+	color:#602040;
+	text-align:center;
+}
+.category {
+	font-size:30px;
+	font-family:"Ink Free";
+	color:#1a000d;
+	text-align:center;
+}
+hr {
+	color:#1a000d;
+}
+.about_header {
+	float:left;
+	font-family:Pristina;
+	color:#602040;
+	font-size:50px;
+}
+.about {
+	float:left;
+	font-family:"Ink Free";
+	color:#1a000d;
+	font-size:20px;
+	padding-right:20px;
+	width:300px;
+}
+th {
+	position:center;
+	padding-left:20px;
+	padding-right:20px;
+	font-family:"Ink Free";
+	font-size:20px;
+}
+.guide_header {
+	font-size:50px;
+	font-family:Pristina;
+	color:#1a000d;
+	float:center;
+	padding-left:750px;
+}
+.footer {
+	text-align:center;
+	font-family:Calibri;
+}
